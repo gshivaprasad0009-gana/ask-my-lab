@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated data
+data/
+*.db
+
+# Secrets — never commit these
+.env
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
